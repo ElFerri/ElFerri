@@ -1,9 +1,9 @@
 ### Hola Mi Gente 👋
 
 
-##**ElFerri/ElFerri** con un repositorio renovado!
+## **ElFerri/ElFerri** con un repositorio renovado!
 
-#Conoceme hombree!!
+# Conoceme hombree!!
 
 - 🔭 Actualmente estoy estudiando en **La Vall D'uixo**.
 - 🌱 Actualmente estoy aprendiendo _**DAW**_.
