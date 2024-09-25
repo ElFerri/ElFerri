@@ -5,9 +5,9 @@
 
 ### Conoceme hombree!!
 
-- 🔭 Actualmente estoy estudiando en **La Vall D'uixo**.
+- 🔭 Actualmente estoy estudiando en _**La Vall D'uixo**_.
 - 🌱 Actualmente estoy aprendiendo _**DAW**_.
-- 👯 Github lo llegare a utilizar en **entornos de desarollo**. 
+- 👯 Github lo llegare a utilizar en _**entornos de desarollo**_. 
 - 🤔 Estoy buscando ayuda para saber como va Github!
 - 💬 Preguntame de lo que quieras(sobre todo futbol) :)
 - 📫 Cómo llegar a mí: -Escribeme por whatsap(si no no contesto).
