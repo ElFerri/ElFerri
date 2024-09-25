@@ -1,9 +1,9 @@
-## Hola Mi Gente 👋
+### Hola Mi Gente 👋
 
 
-**ElFerri/ElFerri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##**ElFerri/ElFerri** con un repositorio renovado!
 
-Here are some ideas to get you started:
+#Conoceme hombree!!
 
 - 🔭 Actualmente estoy estudiando en **La Vall D'uixo**.
 - 🌱 Actualmente estoy aprendiendo _**DAW**_.
